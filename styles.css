@@ -1,8 +1,8 @@
-#greencir {color:#52AD81;}
+.makegreen {color:#52AD81;}
 #redcir {color:#CD5A48;}
 #bluecir {color:#51A9D6;}
 #greens {
 	background-color:#52AD81;
 	color:white;
 }
-#tall {padding:40px;}
+.addpad {padding:20px;}
