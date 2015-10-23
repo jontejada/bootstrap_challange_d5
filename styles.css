@@ -6,3 +6,7 @@
 	color:white;
 }
 .addpad {padding:20px;}
+.list-group-item.active {
+	background-color:#389968;
+	border-color:#389968;
+}
